@@ -19,7 +19,9 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1kMMs_g6Jns7pdODV5v0sR8kyyAUNIJPK/view?usp=sharing](https://drive.google.com/file/d/1kMMs_g6Jns7pdODV5v0sR8kyyAUNIJPK/view?usp=sharing)
 
-- ⚡ Fun fact **Did you know GitHub's mascot, the Octocat, was created by Simon Oxley and designed by Cameron McEfee? It combines an octopus and a cat, symbolizing the versatility and curiosity of developers! 🐙🐱**
+- ⚡ Fun fact **I can Do this All Day!💀** <p align='right'>![Marvel Cinematic Universe GIF](https://media.giphy.com/media/E8OyB7fmX9XSo/giphy.gif)</p>
+ 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
