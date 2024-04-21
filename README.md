@@ -43,7 +43,7 @@
 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=VijayMakkad&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=VijayMakkad&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=VijayMakkad&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=SaranshBangar&theme=synthwave&layout=compact&type=piechart&sort=desc&exclude_repo=GeeksforGeeks-Solutions)
+![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=VijayMakkad&theme=synthwave&layout=compact&type=piechart&sort=desc&exclude_repo=GeeksforGeeks-Solutions)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vijaymakkad&theme=dark" alt="tartejbrothers" />
 </div>
