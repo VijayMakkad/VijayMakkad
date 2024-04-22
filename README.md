@@ -38,12 +38,11 @@
 
 <a href="https://wakatime.com/@018ed705-c334-443d-b26a-decc81da1151"><img src="https://wakatime.com/badge/user/018ed705-c334-443d-b26a-decc81da1151.svg" alt="Total time coded since Apr 13 2024" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijaymakkad&show_icons=true&locale=en&layout=compact" alt="vijaymakkad" /></p>
+<img width="425" src="https://streak-stats.demolab.com/?user=VijayMakkad&theme=react" /><img width="450" src="https://github-readme-stats.vercel.app/api?username=VijayMakkad&count_private=true&show_icons=true&theme=react" />  
+<p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijaymakkad&show_icons=true&locale=en&layout=compact" alt="vijaymakkad" /></p>
 
-
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=VijayMakkad&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=VijayMakkad&theme=react" />
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=VijayMakkad&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=VijayMakkad&theme=synthwave&layout=compact&type=piechart&sort=desc&exclude_repo=GeeksforGeeks-Solutions)
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vijaymakkad&theme=dark" alt="tartejbrothers" />
 </div>
+<img width="750" src="https://github-readme-activity-graph.vercel.app/graph?username=VijayMakkad&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<!-- ![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=VijayMakkad&theme=synthwave&layout=compact&type=piechart&sort=desc&exclude_repo=GeeksforGeeks-Solutions) -->
