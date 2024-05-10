@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **MLOps**
 
-- 👨‍💻 All of my projects are available at [https://vijaymakkad-portfolio-react.vercel.app/](https://vijaymakkad-portfolio-react.vercel.app/)
+- 👨‍💻 To know more about me -> [https://vijaymakkad-portfolio-react.vercel.app/](https://vijaymakkad-portfolio-react.vercel.app/)
 
 - 💬 Ask me about **MLOps**
 
