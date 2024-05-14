@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **MLOps**
 
-- 👨‍💻 To know more about me -> <a href="https://vijaymakkad-portfolio-react.vercel.app/(https://vijaymakkad-portfolio-react.vercel.app/">**My Portfolio**</a>
+- 👨‍💻 To know more about me -> <a href="https://vijaymakkad-portfolio-react.vercel.app/">**My Portfolio**</a>
 
 - 💬 Ask me about **MLOps**
 
