@@ -1,8 +1,8 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&weight=500&size=31&pause=1000&color=ABABAB&center=true&vCenter=true&random=false&width=500&height=100&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BC%2CVijay+Makkad+This+side!" alt="Typing SVG" /></a>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&weight=500&size=31&pause=1000&color=ABABAB&center=true&vCenter=true&random=false&width=500&height=100&lines= Hi+%F0%9F%91%8B%F0%9F%8F%BC%2CVijay+Makkad+This+side!" alt="Typing SVG" /></a>
   <img alt="." src="https://emojis.slackmojis.com/emojis/images/1613942497/14160/mario_wave.gif?1613942497" width="65">
 </h1>
 
-<h3 align="center">A 2nd Year Student @SRMIST, Learning...</h3>
+<h3 align="center">A 3rd Year Student @SRMIST, Learning...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaymakkad&label=Profile%20views&color=0e75b6&style=flat" alt="vijaymakkad" /> </p>
 
