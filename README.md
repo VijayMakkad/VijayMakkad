@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&weight=500&size=31&pause=1000&color=ABABAB&center=true&vCenter=true&random=false&width=500&height=100&lines= Hi+%F0%9F%91%8B%F0%9F%8F%BC%2CVijay+Makkad+This+side!" alt="Typing SVG" /></a>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&weight=500&size=31&pause=1000&color=ABABAB&center=true&vCenter=true&random=false&width=500&height=100&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BC%2CVijay+Makkad+This+side!" alt="Typing SVG" /></a>
   <img alt="." src="https://emojis.slackmojis.com/emojis/images/1613942497/14160/mario_wave.gif?1613942497" width="65">
 </h1>
 
