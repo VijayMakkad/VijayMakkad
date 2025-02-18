@@ -1,9 +1,9 @@
-### <p align="center">
+<h1 align="center" style="display: flex; align-items: center; justify-content: center;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=31&pause=1000&color=ABABAB&center=true&vCenter=true&random=false&width=500&height=100&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BC%2CVijay+Makkad+This+side!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=poppins&weight=500&size=31&pause=1000&color=ABABAB&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BC%2CVijay+Makkad+This+side!" alt="Typing SVG" />
   </a>
-  <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1613942497/14160/mario_wave.gif?1613942497" width="65">
-</p>
+  <img alt="." src="https://emojis.slackmojis.com/emojis/images/1613942497/14160/mario_wave.gif?1613942497" width="65">
+</h1>
 
 ---
 
@@ -38,7 +38,7 @@
 
 ### 🛠 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,react,nextjs,nodejs,express,tailwind,mysql,postgresql,mongodb,git,github,docker,figma,firebase,flask,vscode,matlab" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,rust,spring,postman,react,nextjs,nodejs,express,tailwind,mysql,postgresql,mongodb,git,github,docker,figma,firebase,flask,vscode,matlab,aws,linux,bash,graphql,tensorflow,pytorch,scikit-learn,keras,opencv" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img width="750" src="https://github-readme-stats.vercel.app/api/wakatime?username=vijaymakkad&theme=dark" alt="Wakatime Stats" />
+  <img width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=vijaymakkad&theme=dark" alt="Wakatime Stats" />
 </p>
 
 ---
