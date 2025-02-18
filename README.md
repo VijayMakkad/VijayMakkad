@@ -50,9 +50,7 @@
   <img width="350" src="https://github-readme-stats.vercel.app/api?username=VijayMakkad&count_private=true&show_icons=true&theme=react" />  
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VijayMakkad&count_private=true&show_icons=true&theme=react" />
-</p>
+
 
 
 <p align="center">
