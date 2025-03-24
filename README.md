@@ -111,8 +111,7 @@
   
   <br>
   <blockquote>
-    <p><i>The most disastrous thing that you can ever learn is your first programming language.</i></p>
-    <p>— Alan Kay</p>
+    <p><i>I can do this all day.</i></p>
   </blockquote>
 </div>
 
