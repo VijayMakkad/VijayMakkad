@@ -46,7 +46,7 @@
   <a href="https://codepen.io/vijaymakkad" target="_blank">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
   </a>
-  <a href="https://www.leetcode.com/vijay_makkad" target="_blank">
+  <a href="https://www.leetcode.com/_vijaymakkad_" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://codeforces.com/profile/vijay_makkad" target="_blank">
