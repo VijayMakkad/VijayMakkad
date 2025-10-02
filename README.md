@@ -27,7 +27,7 @@
 - 🛠️ Exploring **MLOps & Cloud Technologies**
 - 📫 Reach me at: **[vijaymakkad0104@gmail.com](mailto:vijaymakkad0104@gmail.com)**
 - 🖥️ My Portfolio: **[vijay-makkad.vercel.app](https://vijay-makkad.vercel.app/)**
-- 📄 [View My Resume](https://drive.google.com/file/d/1kMMs_g6Jns7pdODV5v0sR8kyyAUNIJPK/view?usp=sharing)
+- 📄 [View My Resume](https://drive.google.com/file/d/1nfFzYZeuGwNiF1XgEDSyWr6SRsckfsOP/view?usp=sharing)
 - ⚡ Fun Fact: **"I can do this all day! 💀"**
 
 <div align="center">
