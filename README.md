@@ -1,124 +1,120 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BC%2C+Vijay+Makkad+here!" alt="Typing SVG" />
-  </a>
-  <img alt="Mario Wave" src="https://emojis.slackmojis.com/emojis/images/1613942497/14160/mario_wave.gif?1613942497" width="70">
-</h1>
-
-<p align="center">
-  <b>Computer Science Student @ SRMIST | Full-Stack Developer | ML Enthusiast 🚀</b>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vijaymakkad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://wakatime.com/@018ed705-c334-443d-b26a-decc81da1151">
-    <img src="https://wakatime.com/badge/user/018ed705-c334-443d-b26a-decc81da1151.svg" alt="Wakatime Badge" />
-  </a>
-</p>
-
 <div align="center">
-  
-  ## 🚀 About Me
-  
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:0a2540,100:0d1117&fontColor=61DAFB&text=Vijay%20Makkad&section=header&fontSize=55&fontAlignY=42&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20SRMIST&descSize=17&descAlignY=64&descAlign=50&fontAlign=50)
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1500&color=61DAFB&center=true&vCenter=true&width=560&height=50&lines=Building+intelligent+systems+%F0%9F%A4%96;Full-Stack+%2B+ML+%3D+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+shipping+%F0%9F%9A%80;Open+to+collaborations!+%F0%9F%A4%9D" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=vijaymakkad&label=Profile+Views&color=61dafb&style=flat-square" />
+&nbsp;&nbsp;
+<a href="https://wakatime.com/@018ed705-c334-443d-b26a-decc81da1151">
+  <img src="https://wakatime.com/badge/user/018ed705-c334-443d-b26a-decc81da1151.svg" />
+</a>
+
 </div>
 
-- 🔥 Currently diving deep into **Machine Learning & Full-Stack Development**
-- 🤝 Looking for collaborations on **Machine Learning & AI Projects**
-- 🛠️ Exploring **MLOps & Cloud Technologies**
-- 📫 Reach me at: **[vijaymakkad0104@gmail.com](mailto:vijaymakkad0104@gmail.com)**
-- 🖥️ My Portfolio: **[vijay-makkad.vercel.app](https://vijay-makkad.vercel.app/)**
-- 📄 [View My Resume](https://drive.google.com/file/d/1nfFzYZeuGwNiF1XgEDSyWr6SRsckfsOP/view?usp=sharing)
-- ⚡ Fun Fact: **"I can do this all day! 💀"**
+<br/>
+
+## 👨‍💻 About Me
+
+```javascript
+const vijay = {
+  degree:    "B.Tech Computer Science @ SRMIST Kattankulathur",
+  focus:     ["Machine Learning", "MLOps", "Cloud Technologies"],
+  building:  "AI-powered web apps with RAG + LLM backends",
+  openTo:    "ML / AI collaborations",
+  contact:   "vijaymakkad0104@gmail.com",
+  portfolio: "https://vijay-makkad.vercel.app",
+  funFact:   "I can do this all day 💀",
+};
+```
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+<br/>
+![](https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,rust)
+
+**Frontend**
+<br/>
+![](https://skillicons.dev/icons?i=react,nextjs,tailwind)
+
+**Backend & APIs**
+<br/>
+![](https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,graphql)
+
+**ML / AI**
+<br/>
+![](https://skillicons.dev/icons?i=tensorflow,pytorch)
+
+**Databases & DevOps**
+<br/>
+![](https://skillicons.dev/icons?i=postgresql,mongodb,mysql,firebase,docker,aws,git,linux)
+
+<br/>
+
+## 🚀 Featured Projects
 
 <div align="center">
-  
-  ## 📫 Connect with Me
-  
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**🍕 FoodOrdering App**](https://github.com/VijayMakkad/FoodOrdering-App) | Cross-platform food ordering with real-time updates & order tracking | React Native · Expo · Supabase · TypeScript |
+| [**🔬 Deep Researcher**](https://github.com/VijayMakkad/Deep-Researcher-RAG-System) | RAG system for intelligent document Q&A with multi-AI backends (LexRank, DistilBART, Ollama) | Python · FastAPI · Streamlit · FAISS |
+| [**🧠 Emotion Classifier**](https://github.com/VijayMakkad/Human-emotion-classifier) | Deep learning model for real-time human emotion recognition from facial data | Python · TensorFlow |
+| [**🗣️ IdeaClinic Forum**](https://github.com/VijayMakkad/ideaclinic_forum) | Community discussion forum for SRMIST's Idea Clinic program | TypeScript · Next.js |
+| [**💬 Chat App**](https://github.com/VijayMakkad/Chat-App) | Realtime full-duplex chat application with live messaging | JavaScript · WebSockets |
+
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/vijay-makkad-1573681b3" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://kaggle.com/vijaymakkad" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  <a href="https://codepen.io/vijaymakkad" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
-  </a>
-  <a href="https://www.leetcode.com/_vijaymakkad_" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://codeforces.com/profile/vijay_makkad" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces"/>
-  </a>
-</p>
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
-  
-  ## 🛠️ Tech Stack & Tools
-  
+
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=VijayMakkad&theme=react&hide_border=true&border_radius=10" />
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=VijayMakkad&count_private=true&show_icons=true&theme=react&hide_border=true&border_radius=10" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VijayMakkad&bg_color=20232a&color=61dafb&line=61dafb&point=f0fcff&area=true&hide_border=true&radius=8" width="785" />
+
+<br/><br/>
+
+<img width="390" src="https://github-readme-stats.vercel.app/api/wakatime?username=vijaymakkad&theme=react&hide_border=true&layout=compact&border_radius=10" />
+
 </div>
 
-<details open>
-  <summary align="center"><b>Languages & Frameworks</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,rust,react,nextjs,nodejs,express,tailwind" />
-  </p>
-</details>
+<br/>
 
-<details open>
-  <summary align="center"><b>Databases & DevOps</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,docker,aws,firebase,git,github,linux,bash" />
-  </p>
-</details>
-
-<details open>
-  <summary align="center"><b>Machine Learning & Tools</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,figma,vscode,postman,graphql" />
-  </p>
-</details>
+## 🌐 Most Used Languages
 
 <div align="center">
-  
-  ## 📊 GitHub Stats
-  
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayMakkad&theme=react&hide_border=true&border_radius=10&layout=compact&langs_count=8" />
 </div>
 
-<p align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=VijayMakkad&theme=react&hide_border=true&border_radius=10" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=VijayMakkad&count_private=true&show_icons=true&theme=react&hide_border=true&border_radius=10" />  
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VijayMakkad&bg_color=20232a&color=61dafb&line=61dafb&point=f0fcff&area=true&hide_border=true&radius=8" width="800" />
-</p>
-
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=vijaymakkad&theme=react&hide_border=true&layout=compact&border_radius=10" alt="Wakatime Stats" />
-</p>
+## 📫 Let's Connect
 
 <div align="center">
-  
-  ## 🎯 Coding Quote
-  
-  <img width="300" src="https://media.giphy.com/media/E8OyB7fmX9XSo/giphy.gif" />
-  
-  <br>
-  <blockquote>
-    <p><i>I can do this all day.</i></p>
-  </blockquote>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vijay-makkad-1573681b3)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vijay-makkad.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijaymakkad0104@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1nfFzYZeuGwNiF1XgEDSyWr6SRsckfsOP/view?usp=sharing)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/_vijaymakkad_)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/vijaymakkad)
+[![CodeForces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/vijay_makkad)
+
 </div>
 
-<hr>
+<br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Marquee" />
-
-  <h3>Thanks for stopping by! ⭐ Feel free to check out my repositories and contribute! 🚀</h3>
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0d1117,50:0a2540,100:0d1117&section=footer)
