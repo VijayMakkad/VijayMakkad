@@ -13,6 +13,14 @@
 <a href="https://wakatime.com/@018ed705-c334-443d-b26a-decc81da1151">
   <img src="https://wakatime.com/badge/user/018ed705-c334-443d-b26a-decc81da1151.svg" />
 </a>
+&nbsp;&nbsp;
+<a href="https://github.com/VijayMakkad?tab=followers">
+  <img src="https://img.shields.io/github/followers/VijayMakkad?label=Followers&style=flat-square&color=61dafb&labelColor=0d1117" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/VijayMakkad?tab=repositories">
+  <img src="https://img.shields.io/github/stars/VijayMakkad?label=Stars&style=flat-square&color=61dafb&labelColor=0d1117" />
+</a>
 
 </div>
 
@@ -58,19 +66,18 @@ const vijay = {
 
 <br/>
 
-## 🚀 Featured Projects
+
+## 🐍 Contribution Snake
 
 <div align="center">
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**🍕 FoodOrdering App**](https://github.com/VijayMakkad/FoodOrdering-App) | Cross-platform food ordering with real-time updates & order tracking | React Native · Expo · Supabase · TypeScript |
-| [**🔬 Deep Researcher**](https://github.com/VijayMakkad/Deep-Researcher-RAG-System) | RAG system for intelligent document Q&A with multi-AI backends (LexRank, DistilBART, Ollama) | Python · FastAPI · Streamlit · FAISS |
-| [**🧠 Emotion Classifier**](https://github.com/VijayMakkad/Human-emotion-classifier) | Deep learning model for real-time human emotion recognition from facial data | Python · TensorFlow |
-| [**🗣️ IdeaClinic Forum**](https://github.com/VijayMakkad/ideaclinic_forum) | Community discussion forum for SRMIST's Idea Clinic program | TypeScript · Next.js |
-| [**💬 Chat App**](https://github.com/VijayMakkad/Chat-App) | Realtime full-duplex chat application with live messaging | JavaScript · WebSockets |
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VijayMakkad/VijayMakkad/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VijayMakkad/VijayMakkad/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/VijayMakkad/VijayMakkad/output/github-snake.svg" width="100%" />
+  </picture>
 </div>
+
+> ⚠️ This needs a one-time workflow added to the repo to generate the snake — see the included `snake.yml` file and setup note below.
 
 <br/>
 
@@ -87,7 +94,7 @@ const vijay = {
 
 <br/><br/>
 
-<img width="390" src="https://github-readme-stats.vercel.app/api/wakatime?username=vijaymakkad&theme=react&hide_border=true&layout=compact&border_radius=10" />
+<!-- <img width="390" src="https://github-readme-stats.vercel.app/api/wakatime?username=vijaymakkad&theme=react&hide_border=true&layout=compact&border_radius=10" /> -->
 
 </div>
 
@@ -97,6 +104,14 @@ const vijay = {
 
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayMakkad&theme=react&hide_border=true&border_radius=10&layout=compact&langs_count=8" />
+</div>
+
+<br/>
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
 </div>
 
 <br/>
@@ -112,9 +127,16 @@ const vijay = {
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/_vijaymakkad_)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/vijaymakkad)
 [![CodeForces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/vijay_makkad)
+<!-- Uncomment and add your handle if you want a Twitter/X badge:
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+-->
 
 </div>
 
 <br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0d1117,50:0a2540,100:0d1117&section=footer)
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VijayMakkad.VijayMakkad&left_color=0d1117&right_color=61dafb&left_text=Thanks%20for%20visiting!" />
+</div>
