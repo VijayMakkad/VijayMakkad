@@ -77,8 +77,6 @@ const vijay = {
   </picture>
 </div>
 
-> ⚠️ This needs a one-time workflow added to the repo to generate the snake — see the included `snake.yml` file and setup note below.
-
 <br/>
 
 ## 📊 GitHub Stats
